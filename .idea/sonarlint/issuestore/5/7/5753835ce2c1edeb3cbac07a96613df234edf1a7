@@ -1,0 +1,9 @@
+
+l
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥
+I
+java:S1172;".Remove this unused method parameter "orderId".(Û¢î’ıÿÿÿÿ
+W
+java:S1854<"<Remove this useless assignment to local variable "username".(±ª‰ìıÿÿÿÿ
+H
+java:S1481<"-Remove this unused "username" local variable.(±ª‰ìıÿÿÿÿ

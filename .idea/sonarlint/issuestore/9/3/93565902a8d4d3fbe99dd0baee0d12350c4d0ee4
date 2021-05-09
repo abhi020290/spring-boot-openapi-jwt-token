@@ -1,0 +1,16 @@
+
+L
+java:S54112"*Use the primitive boolean expression here.(ó™Û¦úÿÿÿÿ8¦”Œß”/
+c
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(Ö¨æ8Öˆçß”/
+
+java:S1128
+"kRemove this unused import 'org.springframework.security.web.authentication.WebAuthenticationDetailsSource'.(¨ •À
+l
+java:S1128	"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥
+‡
+java:S1128"lRemove this unused import 'org.springframework.security.authentication.UsernamePasswordAuthenticationToken'.(ÖÆ„Ùüÿÿÿÿ
+l
+java:S18540"JRemove this useless assignment to local variable "validateTokenGenerated".(—’‚×üÿÿÿÿ8º¬ß”/
+]
+java:S14810";Remove this unused "validateTokenGenerated" local variable.(—’‚×üÿÿÿÿ8Å¬ß”/
